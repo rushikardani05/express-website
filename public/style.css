@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+.btn{
+    width: 100px;
+    background-color: white;
+}
+.btn:hover{
+    background-color: aquamarine;
+}
